@@ -15,6 +15,10 @@
     --Dark-blue: hsl(218, 44%, 22%)
 }
 
+body{
+    background-color: var(--Light-gray);
+}
+
  .container{
     width: 100%;
     min-height: 100vh;
